@@ -497,15 +497,6 @@ header h2 {
   max-width: 100%;
 }
 
-#main-content-gitblog {
- 
-  width: 100%;
-}
-
-#main-content-gitblog img {
-  max-width: 100%;
-}
-
 aside#sidebar {
   float: right;
   width: 200px;
