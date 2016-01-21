@@ -1,5 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
+
 .list-group-item-blog {background:#428bca;font-size:20px;text-align:center;color:#fff}
 .list-group-item-work {background:#428bca;font-size:20px;text-align:center;color:#fff}
 .list-group-item-active{background:#f7f7f7}
+.container {
+	padding-right:0px;
+	padding-left:0px;
+	margin-right:auto;
+	margin-left:auto
+}
