@@ -5,8 +5,8 @@ body{margin:0;padding:0}
 .list-group-item-work {background:#428bca;font-size:20px;text-align:center;color:#fff}
 .list-group-item-active{background:#f7f7f7}
 .container {
-	padding-right:0px;
-	padding-left:0px;
+	padding-right:1px;
+	padding-left:1px;
 	margin-right:auto;
 	margin-left:auto
 }
