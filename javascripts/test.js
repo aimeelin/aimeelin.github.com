@@ -1,17 +1,25 @@
 // JavaScript Document
 
-    $(function() {
+$(function() {
 		$('.carousel').carousel({
         interval: 2000
-        });		
+        });				
 		
-		$('#datetimepicker').datetimepicker({
-	inline:true,
-	lang:'ch',
-	timepicker:false
 });
-		
-	});
+	
+function changeSkinBlue(){	
+		$(".mynav").css("background","#428bca");
+		$(".panel-heading").css("background","#428bca");
+}
+function changeSkinGreen(){	
+		$(".mynav").css("background","green");
+		$(".panel-heading").css("background","green");
+}
+function changeSkinPink(){	
+		$(".mynav").css("background","pink");
+		$(".panel-heading").css("background","pink");
+}
+	
 
 	
 	
